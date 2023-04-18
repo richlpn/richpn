@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋 meu nome é Richard Luca</h1>
+<h1 align="center">Olá👋 meu nome é Richard Lucas</h1>
 <h3 align="center">sou um desenvolvedor fullstack</h3>
 
 - 🔭 Eu estou atualmente trabalhando no **sistema-bancario**
